@@ -1,0 +1,25 @@
+*{
+/*  font-size : 10px; */
+}
+
+body {
+  font-size : 14px; 
+}
+
+header , main , footer {
+  margin : 20px;
+  padding : 10px;
+  boeder  : solid 5px #CCCCCC;
+}
+
+h1{
+/*   font-size : 5em; */
+  color : green;
+  background-color : lightpink;
+  border : solid 2px red; 
+  text-align: center;
+  width : 90vw;
+  padding: 20px;
+  /* margin : 40px */
+  
+}
